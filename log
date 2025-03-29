@@ -30,3 +30,9 @@ Sat, Mar 29, 2025  8:01:20 PM:
  1 file changed, 4 insertions(+), 2 deletions(-)
  tests:  0|0
 efa6494
+Sat, Mar 29, 2025  8:03:12 PM: 
+ list.c | 13 ++++++++++---
+ 1 file changed, 10 insertions(+), 3 deletions(-)
+ tests:  10|2
+total_score: 45/70
+78f65dd
