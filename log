@@ -50,3 +50,9 @@ list.c:83:6: note: declared here
 cc1.exe: all warnings being treated as errors
 Compilation failed
 0814597
+Sat, Mar 29, 2025 10:50:19 PM: 
+ list.c | 8 ++++++--
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+ tests:  11|1
+total_score: 55/70
+60e21cf
